@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "17a7",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "2024-07-15T18:54:31.199Z",
+      "notes": "Amazing",
+      "emoji": "EG",
+      "position": {
+        "lat": "30.1656245",
+        "lng": "31.6036175"
+      }
+    }
+  ]
+}
